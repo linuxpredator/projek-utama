@@ -33,7 +33,7 @@ export default function Home() {
       description: 'Projects and open source contributions',
     },
     {
-      href: 'https://vercel.com/helmis-projects-32c93e4f/projek_website',
+      href: 'https://projek-utama.vercel.app',
       title: 'Projek Website',
       description: 'Web development portfolio',
     },
