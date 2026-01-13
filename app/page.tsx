@@ -4,7 +4,7 @@ export default function Home() {
       <div className="max-w-md w-full text-center space-y-6">
         {/* Profil Mini */}
         <div className="space-y-2">
-          <h1 className="text-3xl font-bold tracking-tighter">Projek Utama</h1>
+          <h1 className="text-3xl font-bold tracking-tighter">Helmi</h1>
           <p className="text-zinc-400">Pembangun Web Senior dalam Pembikinan</p>
         </div>
 
