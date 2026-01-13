@@ -8,7 +8,7 @@ interface LinkItem {
 
 function LinkCard({ href, title, description }: LinkItem) {
   return (
-    
+    <a
       href={href}
       target="_blank"
       rel="noopener noreferrer"
